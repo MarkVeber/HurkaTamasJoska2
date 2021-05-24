@@ -13,6 +13,7 @@ const {
 } = require(`../config.json`);
 //all radio stations
 const Radiostations = [
+  "Sláger-fm https://slagerfm.netregator.hu:7813/slagerfm128.mp3",
   "Radio-1 http://stream2.radio1.hu/high.mp3",
   "Standard-Radio https://streams.ilovemusic.de/iloveradio14.mp3",
   "Base-Radio.de https://baseradiode.stream.laut.fm/baseradiode",
